@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="applicationname">InvoiceJe</string>
+  <string name="hello">Hello</string>
+  <string name="bottomnavigationview_invoices">Invoices</string>
+  <string name="bottomnavigationview_configuration">Configuration</string>
+  <string name="configurationview_localonly">Local Only</string>
+  <string name="configurationview_purchase">Purchase Now</string>
+  <string name="invoicescreateview_title">Issue Invoice</string>
+</resources>

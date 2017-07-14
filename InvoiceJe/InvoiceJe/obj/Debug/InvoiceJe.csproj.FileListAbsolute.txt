@@ -1,0 +1,4 @@
+E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe\bin\Debug\InvoiceJe.dll
+E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe\bin\Debug\InvoiceJe.pdb
+E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe\obj\Debug\InvoiceJe.dll
+E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe\obj\Debug\InvoiceJe.pdb
