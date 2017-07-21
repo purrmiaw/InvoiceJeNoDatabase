@@ -1,0 +1,2 @@
+E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\InvoiceJe.UWP.csproj;x86
+E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe\InvoiceJe.csproj;neutral
