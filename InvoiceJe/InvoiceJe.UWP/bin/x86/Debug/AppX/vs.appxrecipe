@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-24T08:48:50.332</Modified>
+      <Modified>2017-07-24T08:58:01.918</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\InvoiceJe.UWP.exe">
       <PackagePath>entrypoint\InvoiceJe.UWP.exe</PackagePath>
-      <Modified>2017-07-24T08:48:49.643</Modified>
+      <Modified>2017-07-24T08:58:01.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\purr\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -576,7 +576,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\Core\InvoiceJe.UWP.exe">
       <PackagePath>InvoiceJe.UWP.exe</PackagePath>
-      <Modified>2017-07-24T08:48:50.319</Modified>
+      <Modified>2017-07-24T08:58:01.913</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
