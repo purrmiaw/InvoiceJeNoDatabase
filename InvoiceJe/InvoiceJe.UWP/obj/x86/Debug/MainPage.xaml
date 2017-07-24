@@ -7,32 +7,64 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Transitions>
+        <TransitionCollection>
+            <EntranceThemeTransition />
+        </TransitionCollection>
+    </Page.Transitions>
+    
+    <Grid x:ConnectionId='1' x:Name="ContentGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" >
+
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="719*"/>
-            <ColumnDefinition Width="721*"/>
+            <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
-        <Pivot Grid.ColumnSpan="2">
+
+        <Pivot>
             <PivotItem Header="Invoices" Margin="0">
-                <CommandBar VerticalAlignment="Bottom">
-                    <CommandBar.Content>
-                        <Grid/>
-                    </CommandBar.Content>
-                    <AppBarButton Icon="Add" Label="Add Invoice"/>
-                </CommandBar>
+                <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                    <ScrollViewer Margin="0,0,0,48">
+                        <ListView>
+                            <TextBlock Text="Invoice #1" />
+                            <TextBlock Text="Invoice #2" />
+                            <TextBlock Text="Invoice #3" />
+                            <TextBlock Text="Invoice #4" />
+                            <TextBlock Text="Invoice #5" />
+                            <TextBlock Text="Invoice #6" />
+                            <TextBlock Text="Invoice #7" />
+                            <TextBlock Text="Invoice #8" />
+                            <TextBlock Text="Invoice #9" />
+                            <TextBlock Text="Invoice #10" />
+                            <TextBlock Text="Invoice #11" />
+                            <TextBlock Text="Invoice #12" />
+                            <TextBlock Text="Invoice #13" />
+                            <TextBlock Text="Invoice #14" />
+                            <TextBlock Text="Invoice #15" />
+                            <TextBlock Text="Invoice #16" />
+                            <TextBlock Text="Invoice #17" />
+                            <TextBlock Text="Invoice #18" />
+                        </ListView>
+
+                    </ScrollViewer>
+
+                    <CommandBar HorizontalAlignment="Stretch" VerticalAlignment="Bottom">
+                        <CommandBar.Content>
+                            <Grid/>
+                        </CommandBar.Content>
+                        <AppBarButton x:ConnectionId='2' Icon="Add" Label="Add Invoice"                           />
+                    </CommandBar>
+                </Grid>
+
             </PivotItem>
             <PivotItem Header="Configuration">
-                <StackPanel HorizontalAlignment="Left" Height="592" Width="336">
-                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Width="326" Margin="0 0 0 6" Text="General Settings"/>
-                    <ToggleSwitch Header="Local Only" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0 0 0 12" />
-                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Margin="0 0 0 6" Width="326" Text="Purchase"/>
-                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Click here to purchase now" VerticalAlignment="Top"/>
+                <StackPanel>
+                    <TextBlock TextWrapping="Wrap" FontSize="24" Margin="0 0 0 3" Text="General Settings"/>
+                    <ToggleSwitch Header="Local Only" Margin="0 0 0 12" />
+                    <TextBlock TextWrapping="Wrap" FontSize="24" Margin="0 0 0 3" Text="Purchase"/>
+                    <TextBlock TextWrapping="Wrap" Text="Click here to purchase now" />
                 </StackPanel>
-
-
-
             </PivotItem>
         </Pivot>
     </Grid>
+
 </Page>
 
