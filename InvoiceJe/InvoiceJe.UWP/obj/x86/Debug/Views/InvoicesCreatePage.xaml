@@ -14,7 +14,7 @@
     </Page.Transitions>
     
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <StackPanel Margin="4 4 4 4">
+        <StackPanel Margin="12 12 12 0">
             <TextBlock TextWrapping="Wrap" Text="Reference" Height="20" FontSize="15" />
             <TextBox TextWrapping="Wrap" Height="32" Margin="0 4 0 0" />
             <TextBlock TextWrapping="Wrap" Text="Date Issued" Height="20" FontSize="15" Margin="0 24 0 0" />

@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using Windows.ApplicationModel.Core;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Core;
+using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -27,8 +29,10 @@ namespace InvoiceJe.UWP.Views
         {
             this.InitializeComponent();
 
+            // Register a handler for BackRequested events and set the
+            // visibility of the Back button
             Windows.UI.Core.SystemNavigationManager.GetForCurrentView().BackRequested +=
-                App_BackRequested;
+    App_BackRequested;
 
         }
 

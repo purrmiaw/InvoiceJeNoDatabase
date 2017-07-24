@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-24T08:58:01.918</Modified>
+      <Modified>2017-07-24T13:58:19.281</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\InvoiceJe.UWP.exe">
       <PackagePath>entrypoint\InvoiceJe.UWP.exe</PackagePath>
-      <Modified>2017-07-24T08:58:01.241</Modified>
+      <Modified>2017-07-24T13:58:18.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\purr\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe\bin\Debug\InvoiceJe.dll">
       <PackagePath>InvoiceJe.dll</PackagePath>
-      <Modified>2017-07-13T02:47:52.064</Modified>
+      <Modified>2017-07-24T13:06:15.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -555,7 +555,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\InvoiceJe.UWP.xr.xml">
       <PackagePath>InvoiceJe.UWP.xr.xml</PackagePath>
-      <Modified>2017-07-24T08:46:37.350</Modified>
+      <Modified>2017-07-24T13:52:47.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -572,11 +572,11 @@
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-24T08:46:38.392</Modified>
+      <Modified>2017-07-24T13:58:18.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.UWP\bin\x86\Debug\Core\InvoiceJe.UWP.exe">
       <PackagePath>InvoiceJe.UWP.exe</PackagePath>
-      <Modified>2017-07-24T08:58:01.913</Modified>
+      <Modified>2017-07-24T13:58:19.274</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

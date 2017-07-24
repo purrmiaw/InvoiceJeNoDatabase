@@ -12,15 +12,15 @@
             <EntranceThemeTransition />
         </TransitionCollection>
     </Page.Transitions>
-    
-    <Grid x:ConnectionId='1' x:Name="ContentGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" >
+
+    <Grid x:ConnectionId='1' x:Name="ContentGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
 
         <Pivot>
-            <PivotItem Header="Invoices" Margin="0">
+            <PivotItem Header="Invoices">
                 <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
                     <ScrollViewer Margin="0,0,0,48">
                         <ListView>
@@ -64,6 +64,7 @@
                 </StackPanel>
             </PivotItem>
         </Pivot>
+
     </Grid>
 
 </Page>
