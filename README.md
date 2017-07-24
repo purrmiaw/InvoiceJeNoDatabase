@@ -1,5 +1,5 @@
 # InvoiceJe
-InvoiceJe Tutorial.
+InvoiceJe Tutorial. Xamarin.Native start up tutorial.
 
 No database. So it'll be easy for you guys to understand the structure.
 
