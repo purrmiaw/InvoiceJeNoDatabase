@@ -22,29 +22,26 @@
         <Pivot>
             <PivotItem Header="Invoices">
                 <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-                    <ScrollViewer Margin="0,0,0,48">
-                        <ListView>
-                            <TextBlock Text="Invoice #1" />
-                            <TextBlock Text="Invoice #2" />
-                            <TextBlock Text="Invoice #3" />
-                            <TextBlock Text="Invoice #4" />
-                            <TextBlock Text="Invoice #5" />
-                            <TextBlock Text="Invoice #6" />
-                            <TextBlock Text="Invoice #7" />
-                            <TextBlock Text="Invoice #8" />
-                            <TextBlock Text="Invoice #9" />
-                            <TextBlock Text="Invoice #10" />
-                            <TextBlock Text="Invoice #11" />
-                            <TextBlock Text="Invoice #12" />
-                            <TextBlock Text="Invoice #13" />
-                            <TextBlock Text="Invoice #14" />
-                            <TextBlock Text="Invoice #15" />
-                            <TextBlock Text="Invoice #16" />
-                            <TextBlock Text="Invoice #17" />
-                            <TextBlock Text="Invoice #18" />
-                        </ListView>
-
-                    </ScrollViewer>
+                    <ListView Margin="0,0,0,48">
+                        <TextBlock Text="Invoice #1" />
+                        <TextBlock Text="Invoice #2" />
+                        <TextBlock Text="Invoice #3" />
+                        <TextBlock Text="Invoice #4" />
+                        <TextBlock Text="Invoice #5" />
+                        <TextBlock Text="Invoice #6" />
+                        <TextBlock Text="Invoice #7" />
+                        <TextBlock Text="Invoice #8" />
+                        <TextBlock Text="Invoice #9" />
+                        <TextBlock Text="Invoice #10" />
+                        <TextBlock Text="Invoice #11" />
+                        <TextBlock Text="Invoice #12" />
+                        <TextBlock Text="Invoice #13" />
+                        <TextBlock Text="Invoice #14" />
+                        <TextBlock Text="Invoice #15" />
+                        <TextBlock Text="Invoice #16" />
+                        <TextBlock Text="Invoice #17" />
+                        <TextBlock Text="Invoice #18" />
+                    </ListView>
 
                     <CommandBar HorizontalAlignment="Stretch" VerticalAlignment="Bottom">
                         <CommandBar.Content>
@@ -56,12 +53,14 @@
 
             </PivotItem>
             <PivotItem Header="Configuration">
-                <StackPanel>
-                    <TextBlock TextWrapping="Wrap" FontSize="24" Margin="0 0 0 3" Text="General Settings"/>
-                    <ToggleSwitch Header="Local Only" Margin="0 0 0 12" />
-                    <TextBlock TextWrapping="Wrap" FontSize="24" Margin="0 0 0 3" Text="Purchase"/>
-                    <TextBlock TextWrapping="Wrap" Text="Click here to purchase now" />
-                </StackPanel>
+                <ScrollViewer>
+                    <StackPanel>
+                        <TextBlock TextWrapping="Wrap" FontSize="24" Margin="0 0 0 3" Text="General Settings"/>
+                        <ToggleSwitch Header="Local Only" Margin="0 0 0 12" />
+                        <TextBlock TextWrapping="Wrap" FontSize="24" Margin="0 0 0 3" Text="Purchase"/>
+                        <TextBlock TextWrapping="Wrap" Text="Click here to purchase now" />
+                    </StackPanel>
+                </ScrollViewer>
             </PivotItem>
         </Pivot>
 
