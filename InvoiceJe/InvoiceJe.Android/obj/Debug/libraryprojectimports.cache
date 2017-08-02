@@ -2,17 +2,17 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\_programming\ij\InvoiceJe\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\dev\ijnodb\src\InvoiceJeNoDatabase\InvoiceJe\InvoiceJe.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
